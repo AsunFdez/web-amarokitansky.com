@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este mapa del sitio lo generó All in One SEO vv4.9.0 dinámicamente el 24 de noviembre de 2026 a las 19:35 - el plugin SEO original para WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2025-11-16T08:03:58+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2025-04-13T13:22:47+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2025-11-16T08:03:58+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[/post_tag-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-01-08T16:42:38+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
