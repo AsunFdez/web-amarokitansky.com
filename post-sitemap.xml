@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Este mapa del sitio lo generó All in One SEO vv4.9.0 dinámicamente el 27 de noviembre de 2026 a las 09:20 - el plugin SEO original para WordPress. -->
+<!-- Este mapa del sitio lo generó All in One SEO vv4.9.0 dinámicamente el 27 de noviembre de 2026 a las 09:52 - el plugin SEO original para WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://amarokitansky.com/main-sitemap.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/noticias/transplante_utero/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/noticias/transplante_utero/]]></loc>
 		<lastmod><![CDATA[2025-11-16T08:03:58+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/hand-g6928ca46f_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/hand-g6928ca46f_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/cicatrices-que-florecen/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/cicatrices-que-florecen/]]></loc>
 		<lastmod><![CDATA[2025-07-03T20:43:04+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/woman-g028a3bc70_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/woman-g028a3bc70_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/noticias/las-tres-caras-de-la-misma-moneda/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/noticias/las-tres-caras-de-la-misma-moneda/]]></loc>
 		<lastmod><![CDATA[2025-05-18T22:04:45+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2025/05/LasTresCarasDeLaMismaMoneda01.jpeg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2025/05/LasTresCarasDeLaMismaMoneda01.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2025/05/LasTresCarasDeLaMismaMonedaPortada_.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2025/05/LasTresCarasDeLaMismaMonedaPortada_.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2025/05/LasTresCarasDeLaMismaMoneda02.jpeg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2025/05/LasTresCarasDeLaMismaMoneda02.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/noticias/talleres-2024-2025/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/noticias/talleres-2024-2025/]]></loc>
 		<lastmod><![CDATA[2025-04-18T12:50:31+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2025/04/taller_virtual.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2025/04/taller_virtual.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/documentacion/nuestra-sexualidad/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/documentacion/nuestra-sexualidad/]]></loc>
 		<lastmod><![CDATA[2024-04-27T12:09:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/young-woman-gfc297a2a4_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/young-woman-gfc297a2a4_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/noticias/el-doctor-carmona-con-amar/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/noticias/el-doctor-carmona-con-amar/]]></loc>
 		<lastmod><![CDATA[2024-04-27T12:07:13+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2024/02/foto-cirugia-dr-carmona.webp]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2024/02/foto-cirugia-dr-carmona.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/blog/recomendacion-lectura/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/blog/recomendacion-lectura/]]></loc>
 		<lastmod><![CDATA[2022-01-13T19:27:17+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/Luna-Roja.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/Luna-Roja.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
@@ -90,13 +90,13 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/sindorme/preguntas-frecuentes/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/sindorme/preguntas-frecuentes/]]></loc>
 		<lastmod><![CDATA[2022-01-13T19:13:07+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/question-g7bef783fd_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/question-g7bef783fd_640.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
@@ -104,23 +104,23 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/sindorme/que-opciones-tenemos/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/sindorme/que-opciones-tenemos/]]></loc>
 		<lastmod><![CDATA[2022-01-09T16:11:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/people-g6e18cb043_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/people-g6e18cb043_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/documentacion/transplante-utero/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/documentacion/transplante-utero/]]></loc>
 		<lastmod><![CDATA[2022-01-08T22:22:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/women-gb44922005_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/women-gb44922005_640.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
@@ -128,103 +128,103 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/sindorme/como-nos-afecta-como-se-convive-con-el-sindrome/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/sindorme/como-nos-afecta-como-se-convive-con-el-sindrome/]]></loc>
 		<lastmod><![CDATA[2022-01-08T19:39:58+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/girl-g568778e11_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/girl-g568778e11_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/sindorme/cuando-se-diagnostica/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/sindorme/cuando-se-diagnostica/]]></loc>
 		<lastmod><![CDATA[2022-01-08T19:26:33+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/gynecologist-g433b9809e_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/gynecologist-g433b9809e_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/documentacion/profesionales/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/documentacion/profesionales/]]></loc>
 		<lastmod><![CDATA[2022-01-08T19:23:06+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/thumbs-up-g818abdaad_1280.png]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/thumbs-up-g818abdaad_1280.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/la-regla/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/la-regla/]]></loc>
 		<lastmod><![CDATA[2022-01-08T16:42:38+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/suicide-g4c6256e1f_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/suicide-g4c6256e1f_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/silvia-40/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/silvia-40/]]></loc>
 		<lastmod><![CDATA[2022-01-08T16:41:48+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/young-woman-g96925955b_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/young-woman-g96925955b_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/ma-angeles/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/ma-angeles/]]></loc>
 		<lastmod><![CDATA[2022-01-08T16:23:28+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/sunset-g91e00936c_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/sunset-g91e00936c_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/rosa/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/rosa/]]></loc>
 		<lastmod><![CDATA[2022-01-08T16:23:12+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/yellow-rose-on-red-bench-gd2c782597_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/yellow-rose-on-red-bench-gd2c782597_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/ninia/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/ninia/]]></loc>
 		<lastmod><![CDATA[2022-01-08T16:23:03+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/valentine-g85292d5cc_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/valentine-g85292d5cc_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/maria/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/maria/]]></loc>
 		<lastmod><![CDATA[2022-01-08T16:22:51+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/woman-gf32744011_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/woman-gf32744011_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/documentacion/sindrome-rokitansky-para-profesionales-de-la-salud/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/documentacion/sindrome-rokitansky-para-profesionales-de-la-salud/]]></loc>
 		<lastmod><![CDATA[2022-01-08T16:02:42+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/stethoscope-gf854992c6_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/stethoscope-gf854992c6_640.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
@@ -248,33 +248,33 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/paula/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/paula/]]></loc>
 		<lastmod><![CDATA[2022-01-07T10:26:54+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/paula.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/paula.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/carla/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/carla/]]></loc>
 		<lastmod><![CDATA[2022-01-07T10:18:00+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/woman-g487cf5ec6_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/woman-g487cf5ec6_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/sindorme/que-es-el-sindrome-de-rokitansky-mrkh/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/sindorme/que-es-el-sindrome-de-rokitansky-mrkh/]]></loc>
 		<lastmod><![CDATA[2022-01-07T10:15:27+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/woman-g028a3bc70_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/woman-g028a3bc70_640.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
@@ -282,23 +282,23 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/silvia/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/silvia/]]></loc>
 		<lastmod><![CDATA[2022-01-07T10:13:22+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/testimonio-roki.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/testimonio-roki.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/experiencias/lara/]]></loc>
+		<loc><![CDATA[https://amarokitansky.com/experiencias/lara/]]></loc>
 		<lastmod><![CDATA[2022-01-07T10:12:32+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2022/01/woman-g8cd50c68a_640.jpg]]>			</image:loc>
+				<![CDATA[https://amarokitansky.com/wp-content/uploads/2022/01/woman-g8cd50c68a_640.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 </urlset>
