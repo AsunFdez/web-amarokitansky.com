@@ -3,4 +3,3 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
 Sitemap: https://amarokitansky.com/sitemap.xml
-Sitemap: https://amarokitansky.com/sitemap.rss
